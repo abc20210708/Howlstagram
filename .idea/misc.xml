@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/gotql/Downloads/HowlstagramInit-master (1)/HowlstagramInit-master/ic_launcher_background.xml" value="0.17708333333333334" />
+        <entry key="..\:/Users/gotql/Downloads/HowlstagramInit-master (1)/HowlstagramInit-master/ic_outline_local_play_24px.xml" value="0.17708333333333334" />
+        <entry key="..\:/haetbit/Howlstagram/app/src/main/res/drawable/ic_outline_local_play_24px.xml" value="0.17708333333333334" />
+        <entry key="..\:/haetbit/Howlstagram/app/src/main/res/drawable/push_icon.xml" value="0.17708333333333334" />
+        <entry key="..\:/haetbit/Howlstagram/app/src/main/res/layout/activity_login.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
